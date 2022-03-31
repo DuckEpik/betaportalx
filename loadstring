@@ -1,0 +1,2 @@
+-- CHECK SCRIPT OF BETA OUT
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/DuckEpik/betaportalx/main/Script'),true))()
